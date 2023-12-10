@@ -4,46 +4,46 @@ import ProjectCard from "./ProjectCard";
 const projectData = [
     {
         id: 1,
-        title: "LinkedOut & About",
+        title: "Taskaru",
         description: "This is a project.",
-        image: "/project/linkedout&about.png",
-        gitUrl: "https://github.com/APU-Blockchain-Cryptocurrency-Club/LinkedOutAndAbout"
+        image: "/project/Taskaru.png",
+        gitUrl: "https://apubcc-taskaru.vercel.app/"
 
     },
     {
         id: 2,
-        title: "ClubDAO",
-        description: "This is a project.",
-        image: "/project/clubdao.png",
-        gitUrl: "https://github.com/0xYudhishthra/ClubDAO"
+        title: "Coming Soon",
+        description: "Stay Tuned.",
+        image: "/project/comingsoon.png",
+        gitUrl: ""
     },
     {
         id: 3,
-        title: "FundChat",
-        description: "This is a project for APUBCC Sparkathon & Solana Hyperdrive.",
-        image: "/project/FundChat.png",
-        gitUrl: "https://github.com/cheongyeechian/fundchat"
+        title: "Coming Soon",
+        description: "Stay Tuned.",
+        image: "/project/comingsoon.png",
+        gitUrl: ""
     },
     {
         id: 4,
-        title: "Megamask",
-        description: "This is a project for ETH Online.",
-        image: "/project/megamask.png",
-        gitUrl: "https://github.com/megamask"
+        title: "Coming Soon",
+        description: "Stay Tuned.",
+        image: "/project/comingsoon.png",
+        gitUrl: ""
     }, 
     {
         id: 5,
-        title: "zkJom",
-        description: "This is a project fro ETHKL.",
-        image: "/project/zkJom.png",
-        gitUrl: "https://github.com/trlau/zkJ0M"
+        title: "Coming Soon",
+        description: "Stay Tuned.",
+        image: "/project/comingsoon.png",
+        gitUrl: ""
     }, 
     {
         id: 6,
-        title: "Attest Me",
-        description: "This is a project for ETH Global Superhack.",
-        image: "/project/attestme.png",
-        gitUrl: "https://github.com/0xBenjamintan/attestMe"
+        title: "Coming Soon",
+        description: "Stay Tuned.",
+        image: "/project/comingsoon.png",
+        gitUrl: ""
     }, 
 
 ];

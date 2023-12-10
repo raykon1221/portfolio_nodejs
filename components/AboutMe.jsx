@@ -10,13 +10,12 @@ const TAB_DATA = [
         content: (
           <ul className="list-disc pl-2">
                 <li>React</li>
-                <li>Next.js</li>
-                <li>JavaScript</li>
-                <li>Solidity</li>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>Tailwind CSS</li>
                 <li>Python</li>
+                <li>C Programming</li>
+                <li>SQL</li>
+                <li>R Programming</li>
+                <li>Java</li>
+                <li>Next.js</li>
           </ul>
         ),
     },
@@ -25,17 +24,8 @@ const TAB_DATA = [
         id: "experiences",
         content: (
           <ul className="list-disc pl-2">
-            <li>ETH Singapore</li>
+            <li>Sparkathon</li>
             <li>ETH KL</li>
-            <li>ETH Online</li>
-            <li>ETHGlobal Superhack</li>
-            <li>Solana Hyperdrive</li>
-            <li>APUBCC Sparkathon</li>
-            <li>Encode Club</li>
-            <li>Google CTF</li>
-            <li>NUS Grey CTF</li>
-            <li>Tune Protect Hackathon</li>
-            <li>geNFesT Ideathon</li>
           </ul>
         ),
     },
@@ -45,7 +35,9 @@ const TAB_DATA = [
         content: (
           <ul className="list-disc pl-2">
                 <li>Asia Pacific University</li>
-                <li>Tsun Jin High School</li>
+                <li>HELP College</li>
+                <li>R Gen Academy</li>
+                <li>SJKC Puay Chai</li>
           </ul>
         ),
     }
@@ -69,9 +61,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">I am currently pursuing a degree in Cyber Security at APU, where I have been honing my skills in various technologies. I am familiar in frontend development, with expertise in React, Next.js, HTML, CSS, and I'm skilled in creating visually appealing and user-friendly interfaces using Tailwind CSS.
-                        Additionally, I've ventured into the world of blockchain development, particularly with Solidity, allowing me to build smart contracts for decentralized applications.
-                        My passion for technology and problem-solving has led me to actively participate in 11 hackathons this year, where I primarily serve as a Front End Developer. However, I am not limited to frontend tasks and often take on backend responsibilities, demonstrating my versatility and commitment to delivering complete solutions. </p>
+                    <p className="text-base text-justify lg:text-lg">Xin Rou is a student pursuing her degree in computer science at Asia Pacific University. She has cultivated proficiency in programming, having learned Python, SQL, and C programming in her academic curriculum. In her free time, she's committed to self-learning HTML, CSS, and JavaScript, with the aim of building appealing websites. Her aspiration is to merge her academic knowledge with her practical skills to design captivating and user-friendly web interfaces, thereby leaving her mark in the realm of technology.</p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 
