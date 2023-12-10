@@ -61,7 +61,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">Xin Rou is a student pursuing her degree in computer science at Asia Pacific University. She has cultivated proficiency in programming, having learned Python, SQL, and C programming in her academic curriculum. In her free time, she's committed to self-learning HTML, CSS, and JavaScript, with the aim of building appealing websites. Her aspiration is to merge her academic knowledge with her practical skills to design captivating and user-friendly web interfaces, thereby leaving her mark in the realm of technology.</p>
+                    <p className="text-base text-justify lg:text-lg">Xin Rou is a student pursuing her degree in computer science at Asia Pacific University. She has cultivated proficiency in programming, having learned Python, SQL, and C programming in her academic curriculum. In her free time, she is committed to self-learning HTML, CSS, and JavaScript, with the aim of building appealing websites. Her aspiration is to merge her academic knowledge with her practical skills to design captivating and user-friendly web interfaces, thereby leaving her mark in the realm of technology.</p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 
